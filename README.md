@@ -1,5 +1,5 @@
 # AtlasAcademy
-Site de uma única pagina, de uma academia de artes marciais fictícia, com diversas seções onde pode ser usada como base a um site funcional com algumas alterações para recebimento de email corporativo.
+Site de uma única pagina, de uma academia de artes marciais fictícia, com diversas seções onde pode ser usada como base a um site funcional com algumas alterações para recebimento de e-mail corporativo.
 
 Baseada no projeto do curso Node Studios Treinamentos;
 
